@@ -7,7 +7,7 @@ int main()
     for(x=1;x<=n;x++)
     s=s+x;
     printf("sum is %d",s);
-
+    ddd
 
 
     return 0;

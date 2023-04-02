@@ -1,4 +1,6 @@
 #include<stdio.h>
+i
+
 int main()
 {
     int i=1;
